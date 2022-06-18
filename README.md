@@ -4,9 +4,9 @@
   
 😊 👋
 
-I build software systems. I strive to build them such that they have a positive impact on those who use them, and to build them sustainably alongside excellent people.
+I build software systems. I strive to build them to leave a positive impact on those who use them, to build them sustainably, and to build them alongside excellent people.
   
-[emerickbosch.com](https://emerickbosch.com)
+I leave notes on [emerickbosch.com](https://emerickbosch.com) which you may find interesting.
   
 ☕ ⌨️ ⚙️
 </div>
